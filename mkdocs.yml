@@ -43,6 +43,7 @@ nav:
       - Pav Bhaji: recipes/pav-bhaji.md
       - Kadai Vegetable: recipes/kadai-vegetable.md
       - Dalia Pulao: recipes/daliya-pulao.md
+      - Potato Pulao: recipes/potato-pulao.md
       - Ven/Kara Pongal: recipes/ven-pongal.md
 plugins:
   - search

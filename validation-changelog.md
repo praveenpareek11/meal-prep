@@ -121,3 +121,10 @@
 - Dalia pulao: component line reworded ("frozen veg mix (pantry); no weekend prep needed")
 - Kadai vegetable: kadai masala made 3x and jarred (keeps 3-4 weeks) → active time drops to ~22 min after first make
 - Variations 4-5: thepla batch added to both weekend checklists; sprout timeline shifts with prep day; paneer bought fresh Fri/Sat for V4
+
+---
+
+## Recipes added
+
+### Potato Pulao (One-Pot) — added 2026-07-07
+Owner-supplied one-pot rice + potato recipe; added verbatim on quantities/timings. Storage claim set against the cheat sheet: rice = 1-2 days / no freezer and potato dishes = same day-1 day / no freezer → recipe fixed at **1 day fridge, never freeze**. Reheat-with-water and cool-15-20-min-before-fridge notes align with the three non-negotiables.
