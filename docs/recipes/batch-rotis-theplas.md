@@ -1,10 +1,10 @@
-## 8. Batch Rotis / Theplas
+# Batch Rotis / Theplas
 
-**Type:** weekend-prep
-**Fridge life:** rotis 2-3 days · theplas 3-4 days · **Freezer-safe:** theplas yes (1 week); rotis no
-**Active time:** 30-40 min per batch · **Makes:** 6 rotis or 6-7 theplas
-**Uses prepped components:** none
-**Source:** own, validated
+**Type:** weekend-prep  
+**Fridge life:** rotis 2-3 days · theplas 3-4 days · **Freezer-safe:** theplas yes (1 week); rotis no  
+**Active time:** 30-40 min per batch · **Makes:** 6 rotis or 6-7 theplas  
+**Uses prepped components:** none  
+**Source:** own, validated  
 
 *Never store dough — it greys and sours in a day. Store cooked rotis instead.*
 

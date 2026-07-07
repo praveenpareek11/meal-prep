@@ -92,7 +92,7 @@
 | Fri | Kadai vegetable + rotis | 30 min |
 | Sat | Matar paneer + rotis/rice | 20 min |
 
-**Protein balance:** strong — rajma, steamed sprouts, soya, dal-based kootu, paneer, peas.
+**Protein balance:** strong — rajma, steamed sprouts, soya, dal-based kootu, paneer, peas.  
 **Freezer-dependent days:** Thu (frozen boiled dal); optionally Mon (frozen rajma from an earlier week).
 
 ## Variation 5 — Light South/North Mixed Week
@@ -118,7 +118,7 @@
 | Fri | Ven/Kara pongal | 25 min |
 | Sat | Pav bhaji + rotis/dosa/fresh pav | 25 min |
 
-**Protein balance:** moderate-good — chole, sprouts, dalia with frozen veg, sambar dal, moong dal in pongal; lighter than Variation 4.
+**Protein balance:** moderate-good — chole, sprouts, dalia with frozen veg, sambar dal, moong dal in pongal; lighter than Variation 4.  
 **Freezer-dependent days:** Mon (frozen sambar-dal), Thu (frozen chole), Fri (frozen boiled moong dal).
 
 ---

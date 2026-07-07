@@ -1,16 +1,17 @@
 # Plain-Boiled Dal + Fresh Tadka Method
 
-**Type:** weekend-prep
-**Fridge life:** 3 days · **Freezer-safe:** yes (2-3 weeks)
-**Active time:** 15 min (passive) + 3 min daily tadka · **Makes:** 1 cup dry = 3-4 meals
-**Uses prepped components:** none
-**Source:** own, validated
+**Type:** weekend-prep  
+**Fridge life:** 3 days · **Freezer-safe:** yes (2-3 weeks)  
+**Active time:** 15 min (passive) + 3 min daily tadka · **Makes:** 1 cup dry = 3-4 meals  
+**Uses prepped components:** none  
+**Source:** own, validated  
 
 *The restaurant trick: dal cooked ahead, tadka fresh daily. Fresh tadka makes 3-day-old dal taste made-today.*
 
 **Batch:** 1 cup toor or moong dal = 3-4 meals | **Time:** 15 min, passive
 
-**Method**
+## Method
+
 1. Rinse dal 3-4 times till water runs mostly clear.
 2. Pressure cook with 3 cups water, ½ tsp salt, ¼ tsp haldi, and ½ tsp oil or ghee.
    - Toor dal: 3-4 whistles

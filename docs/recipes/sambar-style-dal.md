@@ -1,10 +1,10 @@
-## 9. Sambar-Style Dal (the Idli Companion)
+# Sambar-Style Dal (the Idli Companion)
 
-**Type:** weekend-prep
-**Fridge life:** 3 days · **Freezer-safe:** yes (2 weeks)
-**Active time:** 25 min · **Makes:** 4 portions
-**Uses prepped components:** chopped veg box or frozen veg
-**Source:** own, validated
+**Type:** weekend-prep  
+**Fridge life:** 3 days · **Freezer-safe:** yes (2 weeks)  
+**Active time:** 25 min · **Makes:** 4 portions  
+**Uses prepped components:** chopped veg box or frozen veg  
+**Source:** own, validated  
 
 *80% of sambar at 30% of the effort.*
 

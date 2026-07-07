@@ -1,10 +1,10 @@
 # Kadai Vegetable
 
-**Type:** weekday-dish
-**Fridge life:** 2 days · **Freezer-safe:** no
-**Morning active time:** 30 min first time, ~22 min with jarred kadai masala · **Serves:** 1 person, lunch + dinner
-**Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp; chopped hardy veg box — 450-500 g
-**Source:** Hebbars Kitchen Veg Kadai, adapted for prepped masala base and hardy monsoon veg
+**Type:** weekday-dish  
+**Fridge life:** 2 days · **Freezer-safe:** no  
+**Morning active time:** 30 min first time, ~22 min with jarred kadai masala · **Serves:** 1 person, lunch + dinner  
+**Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp; chopped hardy veg box — 450-500 g  
+**Source:** Hebbars Kitchen Veg Kadai, adapted for prepped masala base and hardy monsoon veg  
 
 ## Ingredients
 - onion-tomato masala base — 150 g / 4 heaped tbsp
@@ -24,6 +24,7 @@
 ## Ingredients — quick kadai masala
 
 *Tip: make 3x this quantity once (3 tbsp coriander seeds, 6 dry red chillies, 1½ tsp cumin), store in an airtight jar (keeps 3-4 weeks), and skip Method steps 1-2 thereafter — use 2 tsp from the jar.*
+
 - coriander seeds — 1 tbsp
 - dry red chilli — 2
 - cumin seeds — ½ tsp

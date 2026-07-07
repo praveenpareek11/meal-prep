@@ -1,14 +1,15 @@
-## 7. Monsoon-Safe Sprouts (Steamed)
+# Monsoon-Safe Sprouts (Steamed)
 
-**Type:** weekend-prep
-**Fridge life:** 2 days (steamed) · **Freezer-safe:** no
-**Active time:** 2-day timeline, ~10 min active + 8-10 min steam · **Makes:** half cup dry moong/moth
-**Uses prepped components:** idli pot for steaming
-**Source:** own, safety-validated
+**Type:** weekend-prep  
+**Fridge life:** 2 days (steamed) · **Freezer-safe:** no  
+**Active time:** 2-day timeline, ~10 min active + 8-10 min steam · **Makes:** half cup dry moong/moth  
+**Uses prepped components:** idli pot for steaming  
+**Source:** own, safety-validated  
 
 *Raw sprouts in monsoon = genuine food-poisoning risk. Always steam or sauté in this season.*
 
 **Timeline (start 2 days before you want them):**
+
 1. Day 0 night: pick and rinse ½ cup moong or moth well. Soak in plenty of water for 8 hrs.
 2. Day 1 morning: drain, rinse, and drain completely. Leave in a covered colander or sieve; avoid a very wet cloth in monsoon because it can turn slimy.
 3. Day 1 evening + Day 2 morning: rinse and drain fully again. The sprouts should smell fresh, not sour.

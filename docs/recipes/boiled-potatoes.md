@@ -1,10 +1,10 @@
-## 4. Boiled Potatoes
+# Boiled Potatoes
 
-**Type:** weekend-prep
-**Fridge life:** 3-4 days · **Freezer-safe:** no (never freeze)
-**Active time:** 1 cooker cycle, zero attention · **Makes:** 5-6 medium potatoes
-**Uses prepped components:** none
-**Source:** own, validated
+**Type:** weekend-prep  
+**Fridge life:** 3-4 days · **Freezer-safe:** no (never freeze)  
+**Active time:** 1 cooker cycle, zero attention · **Makes:** 5-6 medium potatoes  
+**Uses prepped components:** none  
+**Source:** own, validated  
 
 **Batch:** 5-6 medium potatoes | **Time:** 1 pressure-cooker cycle (3 whistles), zero attention
 

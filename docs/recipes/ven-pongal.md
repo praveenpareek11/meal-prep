@@ -1,10 +1,10 @@
 # Ven/Kara Pongal
 
-**Type:** weekday-dish
-**Fridge life:** same day only · **Freezer-safe:** no
-**Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner
-**Uses prepped components:** boiled moong dal — 1 cup cooked
-**Source:** Hebbars Kitchen Ven Pongal / Khara Pongal, adapted for boiled-dal prep
+**Type:** weekday-dish  
+**Fridge life:** same day only · **Freezer-safe:** no  
+**Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
+**Uses prepped components:** boiled moong dal — 1 cup cooked  
+**Source:** Hebbars Kitchen Ven Pongal / Khara Pongal, adapted for boiled-dal prep  
 
 ## Ingredients
 - raw rice — ¾ cup

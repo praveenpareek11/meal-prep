@@ -1,10 +1,10 @@
 # Pav Bhaji
 
-**Type:** weekday-dish
-**Fridge life:** 1 day · **Freezer-safe:** no
-**Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner
-**Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp; boiled potatoes — 250 g
-**Source:** Vidhya’s Vegetarian Kitchen Pav Bhaji, adapted as fridge-only version
+**Type:** weekday-dish  
+**Fridge life:** 1 day · **Freezer-safe:** no  
+**Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
+**Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp; boiled potatoes — 250 g  
+**Source:** Vidhya’s Vegetarian Kitchen Pav Bhaji, adapted as fridge-only version  
 
 ## Ingredients
 - boiled potatoes — 250 g / 3 medium, peeled and mashed

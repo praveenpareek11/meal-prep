@@ -1,10 +1,10 @@
 # Matar Paneer
 
-**Type:** weekday-dish
-**Fridge life:** 1 day · **Freezer-safe:** no
-**Morning active time:** 20 min · **Serves:** 1 person, lunch + dinner
-**Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp
-**Source:** Hebbars Kitchen Matar Paneer, adapted for prepped masala base
+**Type:** weekday-dish  
+**Fridge life:** 1 day · **Freezer-safe:** no  
+**Morning active time:** 20 min · **Serves:** 1 person, lunch + dinner  
+**Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp  
+**Source:** Hebbars Kitchen Matar Paneer, adapted for prepped masala base  
 
 ## Ingredients
 - paneer — 200 g, cubes (150 g is sufficient on non-gym weeks)

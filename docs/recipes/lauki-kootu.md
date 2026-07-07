@@ -1,10 +1,10 @@
 # Lauki Kootu
 
-**Type:** weekday-dish
-**Fridge life:** 2 days · **Freezer-safe:** yes (2 weeks)
-**Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner
-**Uses prepped components:** boiled dal — 1½ cups cooked; chopped lauki/gawar box
-**Source:** Vidhya's Vegetarian Kitchen cabbage kootu, adapted to lauki/gawar and stovetop
+**Type:** weekday-dish  
+**Fridge life:** 2 days · **Freezer-safe:** yes (2 weeks)  
+**Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
+**Uses prepped components:** boiled dal — 1½ cups cooked; chopped lauki/gawar box  
+**Source:** Vidhya's Vegetarian Kitchen cabbage kootu, adapted to lauki/gawar and stovetop  
 
 ## Ingredients
 - lauki — 400 g, peeled and chopped

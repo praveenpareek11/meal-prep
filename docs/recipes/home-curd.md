@@ -1,10 +1,10 @@
-## 6. Home Curd
+# Home Curd
 
-**Type:** weekend-prep
-**Fridge life:** 4-5 days · **Freezer-safe:** no (never freeze)
-**Active time:** 10 min active + overnight set · **Makes:** 1 L batch, twice a week
-**Uses prepped components:** none
-**Source:** own, validated
+**Type:** weekend-prep  
+**Fridge life:** 4-5 days · **Freezer-safe:** no (never freeze)  
+**Active time:** 10 min active + overnight set · **Makes:** 1 L batch, twice a week  
+**Uses prepped components:** none  
+**Source:** own, validated  
 
 1. Boil 1 L milk, then simmer 2-3 min for thicker curd.
 2. Cool to warm (finger comfortably tolerable ≈ 40-45°C).
