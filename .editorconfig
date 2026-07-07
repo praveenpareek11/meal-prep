@@ -1,0 +1,4 @@
+root = true
+
+[docs/**.md]
+trim_trailing_whitespace = false

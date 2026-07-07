@@ -25,3 +25,6 @@ This repo is a personal vegetarian meal-prep knowledge base deployed via MkDocs 
 ## Never
 - Change storage/fridge/freezer claims without checking docs/plan/storage-cheatsheet.md
 - Add recipes violating the hard rules above
+
+## Formatting gotchas
+Metadata header blocks in recipes use trailing double-spaces for hard line breaks (Python-Markdown). Never strip trailing whitespace in docs/**.md; .editorconfig enforces this. If a metadata block renders as a run-on paragraph, re-add the two trailing spaces.
