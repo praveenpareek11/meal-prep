@@ -1,0 +1,51 @@
+site_name: Meal Prep
+site_description: Solo vegetarian meal prep system — Hyderabad monsoon edition
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Plan:
+      - How the System Works: plan/system.md
+      - Weekly Variations: plan/variations.md
+      - Storage Cheat Sheet: plan/storage-cheatsheet.md
+      - Shopping Lists: plan/shopping.md
+      - Freezer Guide: plan/freezer-portioning.md
+  - Weekend Prep Components:
+      - Onion-Tomato Masala Base: recipes/onion-tomato-masala-base.md
+      - Plain-Boiled Legumes: recipes/plain-boiled-legumes.md
+      - Boiled Dal + Fresh Tadka: recipes/plain-boiled-dal-fresh-tadka.md
+      - Boiled Potatoes: recipes/boiled-potatoes.md
+      - Chopped Veggie Boxes: recipes/chopped-veggie-boxes.md
+      - Home Curd: recipes/home-curd.md
+      - Monsoon-Safe Sprouts: recipes/monsoon-safe-sprouts.md
+      - Batch Rotis / Theplas: recipes/batch-rotis-theplas.md
+      - Sambar-Style Dal: recipes/sambar-style-dal.md
+  - Weekday Dishes:
+      - Soya Bhurji: recipes/soya-bhurji.md
+      - Matar Paneer: recipes/matar-paneer.md
+      - Lauki Kootu: recipes/lauki-kootu.md
+      - Pav Bhaji: recipes/pav-bhaji.md
+      - Kadai Vegetable: recipes/kadai-vegetable.md
+      - Dalia Pulao: recipes/daliya-pulao.md
+      - Ven/Kara Pongal: recipes/ven-pongal.md
+plugins:
+  - search
+markdown_extensions:
+  - tables
+  - admonition
