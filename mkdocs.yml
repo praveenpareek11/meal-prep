@@ -48,6 +48,7 @@ nav:
   - Fresh Recipes:
       - Fresh Rotis: recipes/fresh-rotis.md
       - Aloo Pyaaz Tamatar Sabzi: recipes/aloo-pyaaz-tamatar-sabzi.md
+      - Plain Moong Dal (Dhuli + Chhilka): recipes/plain-moong-dal-mix.md
 plugins:
   - search
 markdown_extensions:
