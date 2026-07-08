@@ -45,6 +45,8 @@ nav:
       - Dalia Pulao: recipes/daliya-pulao.md
       - Potato Pulao: recipes/potato-pulao.md
       - Ven/Kara Pongal: recipes/ven-pongal.md
+  - Fresh Recipes:
+      - Fresh Rotis: recipes/fresh-rotis.md
 plugins:
   - search
 markdown_extensions:
