@@ -47,6 +47,7 @@ nav:
       - Ven/Kara Pongal: recipes/ven-pongal.md
   - Fresh Recipes:
       - Fresh Rotis: recipes/fresh-rotis.md
+      - Aloo Pyaaz Tamatar Sabzi: recipes/aloo-pyaaz-tamatar-sabzi.md
 plugins:
   - search
 markdown_extensions:
