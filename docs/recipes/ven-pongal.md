@@ -7,19 +7,22 @@
 **Source:** Hebbars Kitchen Ven Pongal / Khara Pongal, adapted for boiled-dal prep  
 
 ## Ingredients
-- raw rice — ¾ cup
-- boiled moong dal — 1 cup cooked
-- water — 3 to 3½ cups
-- salt — ¾ tsp or to taste
-- ghee — 2 tsp
-- jeera — 1 tsp
-- black pepper — ¾ tsp, crushed
-- ginger — 1 inch, finely chopped or grated
-- green chilli — 1, slit, optional
-- hing — 1 pinch
-- curry leaves — 8-10, optional
-- cashews — 8-10, optional
-- turmeric — 1 pinch, optional for kara pongal style
+
+| Ingredient       | Quantity                                |
+| ---------------- | --------------------------------------: |
+| Raw rice         | ¾ cup                                   |
+| Boiled moong dal | 1 cup cooked                            |
+| Water            | 3 to 3½ cups                            |
+| Salt             | ¾ tsp or to taste                       |
+| Ghee             | 2 tsp                                   |
+| Jeera            | 1 tsp                                   |
+| Black pepper     | ¾ tsp, crushed                          |
+| Ginger           | 1 inch, finely chopped or grated        |
+| Green chilli     | 1, slit, optional                       |
+| Hing             | 1 pinch                                 |
+| Curry leaves     | 8-10, optional                          |
+| Cashews          | 8-10, optional                          |
+| Turmeric         | 1 pinch, optional for kara pongal style |
 
 ## Method
 1. Wash rice 2-3 times.

@@ -10,22 +10,24 @@
 
 ## Ingredients
 
-- raw rice — ¾ cup / about 140-150 g
-- water — 1½ cups for pressure cooker
-- potato — 1 medium/large, diced small
-- onion — 1 medium/large, sliced/chopped
-- tomato — 1 medium, chopped
-- green chilli — 1-2
-- oil or ghee — 2 tbsp
-- cumin seeds — ¾ tsp
-- hing — 1 pinch, optional
-- ginger — ½-1 tsp grated, optional
-- turmeric — ⅓ tsp
-- red chilli powder — ¼-½ tsp
-- coriander powder — ¾ tsp
-- garam masala — ¼ tsp, optional
-- salt — 1 to 1¼ tsp, adjust as per taste
-- fresh coriander — optional
+| Ingredient        | Quantity                        |
+| ----------------- | ------------------------------: |
+| Raw rice          | ¾ cup / about 140-150 g         |
+| Water             | 1½ cups for pressure cooker     |
+| Potato            | 1 medium/large, diced small     |
+| Onion             | 1 medium/large, sliced/chopped  |
+| Tomato            | 1 medium, chopped               |
+| Green chilli      | 1-2                             |
+| Oil or ghee       | 2 tbsp                          |
+| Cumin seeds       | ¾ tsp                           |
+| Hing              | 1 pinch, optional               |
+| Ginger            | ½-1 tsp grated, optional        |
+| Turmeric          | ⅓ tsp                           |
+| Red chilli powder | ¼-½ tsp                         |
+| Coriander powder  | ¾ tsp                           |
+| Garam masala      | ¼ tsp, optional                 |
+| Salt              | 1 to 1¼ tsp, adjust as per taste |
+| Fresh coriander   | optional                        |
 
 ## Method
 

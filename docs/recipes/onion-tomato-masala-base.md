@@ -12,16 +12,18 @@
 
 ## Ingredients
 
-- 500 g onions, finely chopped or thinly sliced (5-6 medium)
-- 600 g tomatoes, chopped or pulsed coarse (6-7 medium)
-- 2 tbsp ginger-garlic paste (or 8 garlic cloves + 1 inch ginger, crushed)
-- 4 tbsp oil
-- 1 tsp jeera
-- 1 tsp salt, divided
-- 1 tsp haldi
-- 1.5 tsp red chilli powder
-- 1 tbsp dhania powder
-- 2-3 tbsp water, only for blooming dry spices
+| Ingredient          | Quantity                                                 |
+| ------------------- | -------------------------------------------------------: |
+| Onions              | 500 g, finely chopped or thinly sliced (5-6 medium)      |
+| Tomatoes            | 600 g, chopped or pulsed coarse (6-7 medium)             |
+| Ginger-garlic paste | 2 tbsp (or 8 garlic cloves + 1 inch ginger, crushed)     |
+| Oil                 | 4 tbsp                                                   |
+| Jeera               | 1 tsp                                                    |
+| Salt                | 1 tsp, divided                                           |
+| Haldi               | 1 tsp                                                    |
+| Red chilli powder   | 1.5 tsp                                                  |
+| Dhania powder       | 1 tbsp                                                   |
+| Water               | 2-3 tbsp, only for blooming dry spices                   |
 
 ## Method
 

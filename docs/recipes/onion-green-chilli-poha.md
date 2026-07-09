@@ -8,21 +8,23 @@
 
 ## Ingredients
 
-- Poha: **¾ cup / 60-70 g** thick poha
-- Onion: **1 small**, finely chopped
-- Green chilli: **1**, chopped
-- Peanuts: **1.5 tbsp** optional but recommended
-- Oil: **1.5 tbsp**
-- Mustard seeds: **½ tsp**
-- Jeera: **¼ tsp** optional
-- Curry leaves: **6-8** optional
-- Hing: **1 pinch**
-- Haldi: **¼ tsp**
-- Salt: **¾ tsp**, adjust
-- Sugar: **½ tsp** optional
-- Lemon juice: **1-1.5 tsp**
-- Fresh coriander: optional
-- Water: only for rinsing/sprinkling
+| Ingredient      | Quantity                        |
+| --------------- | ------------------------------: |
+| Poha            | ¾ cup / 60-70 g, thick poha     |
+| Onion           | 1 small, finely chopped         |
+| Green chilli    | 1, chopped                      |
+| Peanuts         | 1.5 tbsp, optional but recommended |
+| Oil             | 1.5 tbsp                        |
+| Mustard seeds   | ½ tsp                           |
+| Jeera           | ¼ tsp, optional                 |
+| Curry leaves    | 6-8, optional                   |
+| Hing            | 1 pinch                         |
+| Haldi           | ¼ tsp                           |
+| Salt            | ¾ tsp, adjust                   |
+| Sugar           | ½ tsp, optional                 |
+| Lemon juice     | 1-1.5 tsp                       |
+| Fresh coriander | optional                        |
+| Water           | only for rinsing/sprinkling     |
 
 ## Process
 

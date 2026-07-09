@@ -7,21 +7,24 @@
 **Source:** Hebbars Kitchen Matar Paneer, adapted for prepped masala base  
 
 ## Ingredients
-- paneer — 200 g, cubes (150 g is sufficient on non-gym weeks)
-- frozen peas — ¾ cup
-- onion-tomato masala base — 150 g / 4 heaped tbsp
-- oil or ghee — 2 tsp
-- jeera — ½ tsp
-- ginger-garlic paste — ½ tsp, optional
-- haldi — ¼ tsp
-- red chilli powder — ½ tsp
-- dhania powder — ½ tsp
-- garam masala — ½ tsp
-- kasuri methi — ½ tsp, crushed
-- salt — ½ tsp or to taste
-- water — ¾ cup
-- cream — 1 tbsp, optional
-- coriander — 1 tbsp, optional
+
+| Ingredient               | Quantity                                        |
+| ------------------------ | ----------------------------------------------: |
+| Paneer                   | 200 g, cubes (150 g is sufficient on non-gym weeks) |
+| Frozen peas              | ¾ cup                                           |
+| Onion-tomato masala base | 150 g / 4 heaped tbsp                           |
+| Oil or ghee              | 2 tsp                                           |
+| Jeera                    | ½ tsp                                           |
+| Ginger-garlic paste      | ½ tsp, optional                                 |
+| Haldi                    | ¼ tsp                                           |
+| Red chilli powder        | ½ tsp                                           |
+| Dhania powder            | ½ tsp                                           |
+| Garam masala             | ½ tsp                                           |
+| Kasuri methi             | ½ tsp, crushed                                  |
+| Salt                     | ½ tsp or to taste                               |
+| Water                    | ¾ cup                                           |
+| Cream                    | 1 tbsp, optional                                |
+| Coriander                | 1 tbsp, optional                                |
 
 ## Method
 1. If paneer is store-bought and firm, soak cubes in warm water for 5 min, then drain.

@@ -7,22 +7,25 @@
 **Source:** Vidhya’s Vegetarian Kitchen Pav Bhaji, adapted as fridge-only version  
 
 ## Ingredients
-- boiled potatoes — 250 g / 3 medium, peeled and mashed
-- onion-tomato masala base — 150 g / 4 heaped tbsp
-- frozen peas-carrot-beans mix — 1 cup
-- gobi — 1 cup small florets, optional
-- capsicum — ½ cup, chopped, optional, only if bought that week
-- oil — 2 tsp
-- butter — 1 tsp + extra only while serving
-- ginger-garlic paste — ½ tsp, optional
-- pav bhaji masala — 1½ tsp
-- red chilli powder — ½ tsp
-- haldi — ¼ tsp
-- salt — ¾ tsp or to taste
-- water — ¾ to 1 cup
-- lemon juice — 1-2 tsp
-- onion — 2 tbsp, finely chopped, optional garnish
-- coriander — 1 tbsp, optional
+
+| Ingredient                   | Quantity                                     |
+| ---------------------------- | -------------------------------------------: |
+| Boiled potatoes              | 250 g / 3 medium, peeled and mashed          |
+| Onion-tomato masala base     | 150 g / 4 heaped tbsp                        |
+| Frozen peas-carrot-beans mix | 1 cup                                        |
+| Gobi                         | 1 cup small florets, optional                |
+| Capsicum                     | ½ cup, chopped, optional, only if bought that week |
+| Oil                          | 2 tsp                                        |
+| Butter                       | 1 tsp + extra only while serving             |
+| Ginger-garlic paste          | ½ tsp, optional                              |
+| Pav bhaji masala             | 1½ tsp                                       |
+| Red chilli powder            | ½ tsp                                        |
+| Haldi                        | ¼ tsp                                        |
+| Salt                         | ¾ tsp or to taste                            |
+| Water                        | ¾ to 1 cup                                   |
+| Lemon juice                  | 1-2 tsp                                      |
+| Onion                        | 2 tbsp, finely chopped, optional garnish     |
+| Coriander                    | 1 tbsp, optional                             |
 
 ## Method
 1. Heat oil and 1 tsp butter in kadai.

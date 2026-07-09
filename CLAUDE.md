@@ -18,9 +18,10 @@ This repo is a personal vegetarian meal-prep knowledge base deployed via MkDocs 
 
 ## Adding a recipe
 1. Create docs/recipes/kebab-case-name.md using the template header
-2. Add it to the correct nav section in mkdocs.yml
-3. If it changes weekly planning, update docs/plan/variations.md
-4. Push to main — GitHub Actions auto-deploys
+2. Ingredients MUST be a 2-column Markdown table (`| Ingredient | Quantity |`, quantity column right-aligned with `---:`), never a bullet list — capitalize ingredient names, keep optional/prep notes in the Quantity cell
+3. Add it to the correct nav section in mkdocs.yml
+4. If it changes weekly planning, update docs/plan/variations.md
+5. Push to main — GitHub Actions auto-deploys
 
 ## Never
 - Change storage/fridge/freezer claims without checking docs/plan/storage-cheatsheet.md

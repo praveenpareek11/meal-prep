@@ -7,21 +7,24 @@
 **Source:** Vidhya's Vegetarian Kitchen cabbage kootu, adapted to lauki/gawar and stovetop  
 
 ## Ingredients
-- lauki — 400 g, peeled and chopped
-- OR gawar — 250 g, stringed and chopped
-- boiled moong dal or toor dal — 1½ cups cooked
-- oil or coconut oil — 2 tsp
-- mustard seeds — ½ tsp
-- jeera — ½ tsp
-- hing — 1 pinch
-- dry red chilli — 1-2
-- curry leaves — 6-8, optional
-- onion — ½ small, chopped, optional
-- haldi — ¼ tsp
-- salt — ¾ tsp or to taste
-- water — ½ to ¾ cup
-- black pepper — ¼ tsp, optional
-- coriander — 1 tbsp, optional
+
+| Ingredient                  | Quantity                    |
+| --------------------------- | --------------------------: |
+| Lauki                       | 400 g, peeled and chopped   |
+| OR gawar                    | 250 g, stringed and chopped |
+| Boiled moong dal or toor dal | 1½ cups cooked             |
+| Oil or coconut oil          | 2 tsp                       |
+| Mustard seeds               | ½ tsp                       |
+| Jeera                       | ½ tsp                       |
+| Hing                        | 1 pinch                     |
+| Dry red chilli              | 1-2                         |
+| Curry leaves                | 6-8, optional               |
+| Onion                       | ½ small, chopped, optional  |
+| Haldi                       | ¼ tsp                       |
+| Salt                        | ¾ tsp or to taste           |
+| Water                       | ½ to ¾ cup                  |
+| Black pepper                | ¼ tsp, optional             |
+| Coriander                   | 1 tbsp, optional            |
 
 ## Method
 1. Heat oil in kadai or pressure cooker base.

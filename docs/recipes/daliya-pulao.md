@@ -7,23 +7,26 @@
 **Source:** My Tasty Curry Dalia Pulao / one-pot Indian vegetarian dinner, adapted for pressure cooker  
 
 ## Ingredients
-- dalia / broken wheat — 1 cup
-- frozen peas-carrot-beans mix — 1½ cups
-- onion — 1 small, chopped
-- tomato — 1 small, chopped, optional
-- oil or ghee — 2 tsp
-- jeera — 1 tsp
-- bay leaf — 1, optional
-- green chilli — 1, slit
-- ginger — ½ inch, grated
-- haldi — ¼ tsp
-- red chilli powder — ½ tsp
-- garam masala — ½ tsp
-- salt — ¾ tsp or to taste
-- water — 2½ cups
-- lemon juice — 1 tsp
-- coriander — 1 tbsp, optional
-- boiled potato — 1 small, cubed, optional fridge-only add
+
+| Ingredient                   | Quantity                                  |
+| ---------------------------- | ----------------------------------------: |
+| Dalia / broken wheat         | 1 cup                                     |
+| Frozen peas-carrot-beans mix | 1½ cups                                   |
+| Onion                        | 1 small, chopped                          |
+| Tomato                       | 1 small, chopped, optional                |
+| Oil or ghee                  | 2 tsp                                     |
+| Jeera                        | 1 tsp                                     |
+| Bay leaf                     | 1, optional                               |
+| Green chilli                 | 1, slit                                   |
+| Ginger                       | ½ inch, grated                            |
+| Haldi                        | ¼ tsp                                     |
+| Red chilli powder            | ½ tsp                                     |
+| Garam masala                 | ½ tsp                                     |
+| Salt                         | ¾ tsp or to taste                         |
+| Water                        | 2½ cups                                   |
+| Lemon juice                  | 1 tsp                                     |
+| Coriander                    | 1 tbsp, optional                          |
+| Boiled potato                | 1 small, cubed, optional fridge-only add  |
 
 ## Method
 1. Dry roast dalia in the pressure cooker base for 3-4 min on low-medium flame till lightly nutty. Remove to a plate.

@@ -7,28 +7,33 @@
 **Source:** Hebbars Kitchen Veg Kadai, adapted for prepped masala base and hardy monsoon veg  
 
 ## Ingredients
-- onion-tomato masala base — 150 g / 4 heaped tbsp
-- chopped gobi — 2 cups
-- chopped beans or gawar — 1½ cups
-- frozen peas — ½ cup
-- oil — 2 tsp
-- jeera — ½ tsp
-- ginger-garlic paste — ½ tsp, optional
-- haldi — ¼ tsp
-- salt — ¾ tsp or to taste
-- water — ½ to ¾ cup
-- kasuri methi — ½ tsp, crushed, optional
-- garam masala — ¼ tsp
-- coriander — 1 tbsp, optional
+
+| Ingredient               | Quantity                 |
+| ------------------------ | -----------------------: |
+| Onion-tomato masala base | 150 g / 4 heaped tbsp    |
+| Chopped gobi             | 2 cups                   |
+| Chopped beans or gawar   | 1½ cups                  |
+| Frozen peas              | ½ cup                    |
+| Oil                      | 2 tsp                    |
+| Jeera                    | ½ tsp                    |
+| Ginger-garlic paste      | ½ tsp, optional          |
+| Haldi                    | ¼ tsp                    |
+| Salt                     | ¾ tsp or to taste        |
+| Water                    | ½ to ¾ cup               |
+| Kasuri methi             | ½ tsp, crushed, optional |
+| Garam masala             | ¼ tsp                    |
+| Coriander                | 1 tbsp, optional         |
 
 ## Ingredients — quick kadai masala
 
 *Tip: make 3x this quantity once (3 tbsp coriander seeds, 6 dry red chillies, 1½ tsp cumin), store in an airtight jar (keeps 3-4 weeks), and skip Method steps 1-2 thereafter — use 2 tsp from the jar.*
 
-- coriander seeds — 1 tbsp
-- dry red chilli — 2
-- cumin seeds — ½ tsp
-- black pepper — ¼ tsp, optional
+| Ingredient      | Quantity        |
+| --------------- | --------------: |
+| Coriander seeds | 1 tbsp          |
+| Dry red chilli  | 2               |
+| Cumin seeds     | ½ tsp           |
+| Black pepper    | ¼ tsp, optional |
 
 ## Method
 1. Dry roast coriander seeds, dry red chilli, cumin seeds, and black pepper on low flame for 2-3 min till aromatic.

@@ -7,21 +7,24 @@
 **Source:** My Tasty Curry Soya Bhurji, adapted for stovetop and prepped masala base  
 
 ## Ingredients
-- soya granules / Nutrela granules — 70 g / about ¾ cup
-- hot water — enough to soak
-- salt — ½ tsp for soaking + ¼ tsp for cooking
-- oil — 2 tsp
-- jeera — ½ tsp
-- green chilli — 1, chopped
-- ginger — ½ inch, grated
-- onion-tomato masala base — 120 g / 3 heaped tbsp
-- frozen peas — ½ cup
-- capsicum — ½ cup, finely chopped, optional, only if bought that week
-- haldi — ¼ tsp
-- red chilli powder — ½ tsp
-- garam masala — ½ tsp
-- lemon juice — 1 tsp
-- coriander — 1 tbsp, optional
+
+| Ingredient                       | Quantity                            |
+| -------------------------------- | ----------------------------------: |
+| Soya granules / Nutrela granules | 70 g / about ¾ cup                  |
+| Hot water                        | enough to soak                      |
+| Salt                             | ½ tsp for soaking + ¼ tsp for cooking |
+| Oil                              | 2 tsp                               |
+| Jeera                            | ½ tsp                               |
+| Green chilli                     | 1, chopped                          |
+| Ginger                           | ½ inch, grated                      |
+| Onion-tomato masala base         | 120 g / 3 heaped tbsp               |
+| Frozen peas                      | ½ cup                               |
+| Capsicum                         | ½ cup, finely chopped, optional, only if bought that week |
+| Haldi                            | ¼ tsp                               |
+| Red chilli powder                | ½ tsp                               |
+| Garam masala                     | ½ tsp                               |
+| Lemon juice                      | 1 tsp                               |
+| Coriander                        | 1 tbsp, optional                    |
 
 ## Method
 1. Soak soya granules in hot salted water for 10 min.
