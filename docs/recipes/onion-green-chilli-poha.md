@@ -10,7 +10,7 @@
 
 | Ingredient      | Quantity                        |
 | --------------- | ------------------------------: |
-| Poha            | ¾ cup / 60-70 g, thick poha     |
+| Poha            | 1 cup / 80-90 g, thick poha     |
 | Onion           | 1 small, finely chopped         |
 | Green chilli    | 1, chopped                      |
 | Peanuts         | 1.5 tbsp, optional but recommended |
