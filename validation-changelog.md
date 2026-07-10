@@ -122,6 +122,7 @@
 - Kadai vegetable: kadai masala made 3x and jarred (keeps 3-4 weeks) → active time drops to ~22 min after first make
 - Variations 4-5: thepla batch added to both weekend checklists; sprout timeline shifts with prep day; paneer bought fresh Fri/Sat for V4
 - Onion green chilli poha (2026-07-09): poha quantity ¾ cup → 1 cup per owner; gram equivalent scaled 60-70 g → 80-90 g to match
+- One-pot masala pasta (2026-07-10): pasta quantity ¾ cup / 75-85 g → 85 g (≈1-1.1 cups loose) per owner; weight preferred since cup volume varies by shape/brand; doubled batch scaled 1½ cups / 150-170 g → 170 g to match
 
 ---
 

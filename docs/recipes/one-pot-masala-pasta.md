@@ -12,7 +12,7 @@ Best method is the **steel pan with glass lid**. The pressure cooker works too, 
 
 | Ingredient                              |                                Quantity |
 | --------------------------------------- | --------------------------------------: |
-| Fusilli pasta                            |                     **¾ cup / 75-85 g** |
+| Fusilli pasta                            | **85 g** (≈1-1.1 cups loose); weigh — cup volume varies by shape/brand |
 | Oil or butter                            |                                  1 tbsp |
 | Garlic                                   |             3-4 cloves, finely chopped |
 | Onion                                    |                        1 small, chopped |
@@ -79,7 +79,7 @@ Double everything:
 
 | Ingredient    |                                    Quantity |
 | ------------- | ------------------------------------------: |
-| Fusilli pasta |                     **1½ cups / 150-170 g** |
+| Fusilli pasta |                **170 g** (≈2-2.2 cups loose) |
 | Water         | **2¼-2½ cups** (pan) / **2 cups** (cooker) |
 
 Cool within **30-40 minutes**, refrigerate, and reheat thoroughly before dinner.
