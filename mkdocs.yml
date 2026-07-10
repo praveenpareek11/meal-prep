@@ -51,6 +51,7 @@ nav:
       - Plain Moong Dal (Dhuli + Chhilka): recipes/plain-moong-dal-mix.md
       - Onion Green Chilli Poha: recipes/onion-green-chilli-poha.md
       - Masala Oats: recipes/masala-oats.md
+      - One-Pot Masala Pasta: recipes/one-pot-masala-pasta.md
 plugins:
   - search
 markdown_extensions:
