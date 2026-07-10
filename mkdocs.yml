@@ -50,6 +50,7 @@ nav:
       - Aloo Pyaaz Tamatar Sabzi: recipes/aloo-pyaaz-tamatar-sabzi.md
       - Plain Moong Dal (Dhuli + Chhilka): recipes/plain-moong-dal-mix.md
       - Onion Green Chilli Poha: recipes/onion-green-chilli-poha.md
+      - Masala Oats: recipes/masala-oats.md
 plugins:
   - search
 markdown_extensions:
