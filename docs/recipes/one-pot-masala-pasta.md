@@ -5,7 +5,7 @@
 **Active time:** 20-25 min (morning) · **Makes:** 1 meal portion  
 **Uses prepped components:** none — fresh one-pot dish  
 **Source:** own  
-**Kitchen-tested:** ❌ not yet  
+**Kitchen-tested:** ✅ confirmed as of 2026-07-11  
 
 Best method is the **steel pan with glass lid**. The pressure cooker works too, but pasta can become softer.
 
