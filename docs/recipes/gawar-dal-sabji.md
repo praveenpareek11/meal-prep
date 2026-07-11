@@ -5,7 +5,6 @@
 **Active time:** 35-40 min (morning) · **Makes:** 2 meals for 1 person  
 **Uses prepped components:** none  
 **Source:** own  
-**Kitchen-tested:** ❌ not yet  
 
 *Style: semi-dry gawar sabji with lightly spiced dal. Pairs with 3 rotis per meal.*
 

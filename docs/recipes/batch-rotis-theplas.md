@@ -5,7 +5,6 @@
 **Active time:** 30-40 min per batch · **Makes:** 6 rotis or 6-7 theplas  
 **Uses prepped components:** none  
 **Source:** own, validated  
-**Kitchen-tested:** ❌ not yet  
 
 *Never store dough — it greys and sours in a day. Store cooked rotis instead.*
 

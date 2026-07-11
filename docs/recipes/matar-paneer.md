@@ -5,7 +5,6 @@
 **Morning active time:** 20 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp  
 **Source:** Hebbars Kitchen Matar Paneer, adapted for prepped masala base  
-**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

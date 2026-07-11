@@ -5,7 +5,6 @@
 **Active time:** 15 min (passive) + 3 min daily tadka · **Makes:** 1 cup dry = 3-4 meals  
 **Uses prepped components:** none  
 **Source:** own, validated  
-**Kitchen-tested:** ❌ not yet  
 
 *The restaurant trick: dal cooked ahead, tadka fresh daily. Fresh tadka makes 3-day-old dal taste made-today.*
 

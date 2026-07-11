@@ -5,7 +5,6 @@
 **Active time:** ~40 min (mostly passive stirring) · **Makes:** makes 6-7 single-meal portions  
 **Uses prepped components:** none  
 **Source:** own, spice-blooming technique from Hebbars Kitchen curry base  
-**Kitchen-tested:** ❌ not yet  
 
 *The single highest-ROI item. Every weekday gravy starts from here.*
 

@@ -5,7 +5,6 @@
 **Active time:** 20-30 min chopping · **Makes:** 1 week of hardy veg  
 **Uses prepped components:** none  
 **Source:** own, validated  
-**Kitchen-tested:** ❌ not yet  
 
 **On prep day:** wash veggies before chopping, drain well, then **dry completely** on a cloth (moisture = monsoon spoilage). Chop only after the surface is dry. Store in airtight boxes with a paper towel/tissue at the bottom to absorb condensation. Keep boxes on the cold fridge shelf, not in the door.
 

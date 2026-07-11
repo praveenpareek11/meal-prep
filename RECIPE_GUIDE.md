@@ -71,12 +71,11 @@ Template (the `␠␠` marker means two real space characters — replace it, do
 **Active time:** 20-25 min (morning) · **Makes:** 2 meals for 1 person␠␠
 **Uses prepped components:** none␠␠
 **Source:** own␠␠
-**Kitchen-tested:** ❌ not yet␠␠
 ```
 
 - **Freezer-safe** must include the reason when it is "No".
 - **Uses prepped components** lists weekend-prep components consumed (e.g. "onion-tomato masala base, boiled legumes") or `none`.
-- **Kitchen-tested** tracks whether the owner has actually cooked the recipe and confirmed the quantities and process work. Every NEW recipe starts as `❌ not yet` — an AI assistant must NEVER set this to ✅ on its own; only the owner flips it after a successful cook, changing it to `✅ 2026-07-15` (date of first cook, plus an optional short note like "reduce salt slightly"). If the owner reports corrections instead, fix the recipe (VALIDATION & CORRECTION MODE), keep ❌ until they confirm a good cook, and log the change in `validation-changelog.md`.
+- **Kitchen-tested** — a recipe may carry one extra final header line, `**Kitchen-tested:** ✅ Yes` (with the two trailing spaces on the line above it). Its PRESENCE means the owner has actually cooked the recipe and confirmed the quantities and process work; its ABSENCE means not yet tested. Rules: NEVER include this line in a new recipe, and NEVER add it on your own — it is added only when the owner explicitly confirms a successful cook. If the owner reports corrections from a cook instead, fix the recipe (VALIDATION & CORRECTION MODE), leave the line absent until they confirm a good result, and log the change in `validation-changelog.md`. When flipping a recipe, the exact line to append after `**Source:**` is: `**Kitchen-tested:** ✅ Yes` (no date — git history records when).
 - Optionally after the header, one italic *Style:* line describing the dish and its pairing (e.g. `*Style: thin, spoonable jhol gravy. Pairs with 3 rotis per meal.*`).
 
 ### 4b. Ingredients — MUST be a table, never a bullet list

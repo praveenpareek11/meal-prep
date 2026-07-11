@@ -5,7 +5,7 @@
 **Active time:** 15-18 min (morning) · **Makes:** 1 lunch portion  
 **Uses prepped components:** none  
 **Source:** own  
-**Kitchen-tested:** ✅ confirmed as of 2026-07-11  
+**Kitchen-tested:** ✅ Yes  
 
 ## Ingredients
 

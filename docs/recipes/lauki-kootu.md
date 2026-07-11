@@ -5,7 +5,6 @@
 **Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** boiled dal — 1½ cups cooked; chopped lauki/gawar box  
 **Source:** Vidhya's Vegetarian Kitchen cabbage kootu, adapted to lauki/gawar and stovetop  
-**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

@@ -5,7 +5,7 @@
 **Active time:** 15-20 min (morning) · **Makes:** 2 bowls dal = lunch + dinner for 1 person  
 **Uses prepped components:** none  
 **Source:** own  
-**Kitchen-tested:** ✅ confirmed as of 2026-07-11  
+**Kitchen-tested:** ✅ Yes  
 
 *Mix ratio: 70% dhuli moong + 30% moong chilka. Pairs with 6 rotis + aloo pyaaz tamatar sabzi. Make it slightly thin because moong dal thickens by dinner.*
 

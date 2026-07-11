@@ -5,7 +5,6 @@
 **Active time:** 20-25 min (morning) · **Makes:** 2 meals for 1 person  
 **Uses prepped components:** none  
 **Source:** own  
-**Kitchen-tested:** ❌ not yet  
 
 *Style: thin, spoonable jhol gravy — the runny cousin of the semi-dry [Aloo Pyaaz Tamatar Sabzi](aloo-pyaaz-tamatar-sabzi.md). Pairs with 3 rotis per meal.*
 

@@ -5,7 +5,6 @@
 **Morning active time:** 30 min first time, ~22 min with jarred kadai masala · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp; chopped hardy veg box — 450-500 g  
 **Source:** Hebbars Kitchen Veg Kadai, adapted for prepped masala base and hardy monsoon veg  
-**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

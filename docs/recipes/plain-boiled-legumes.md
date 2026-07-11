@@ -5,7 +5,6 @@
 **Active time:** ~30 min per batch (passive cooker time) · **Makes:** 1 cup dry = 3 meals  
 **Uses prepped components:** none  
 **Source:** own, validated  
-**Kitchen-tested:** ❌ not yet  
 
 *Boil plain on the weekend; add masala fresh on the day. Plain-boiled = flexible.*
 

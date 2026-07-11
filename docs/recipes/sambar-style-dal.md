@@ -5,7 +5,6 @@
 **Active time:** 25 min · **Makes:** 4 portions  
 **Uses prepped components:** chopped veg box or frozen veg  
 **Source:** own, validated  
-**Kitchen-tested:** ❌ not yet  
 
 *80% of sambar at 30% of the effort.*
 
