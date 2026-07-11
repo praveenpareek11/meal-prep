@@ -5,6 +5,7 @@
 **Active time:** 20-25 min (morning) · **Makes:** 1 filling lunch bowl  
 **Uses prepped components:** none — fresh one-pot dish  
 **Source:** own  
+**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

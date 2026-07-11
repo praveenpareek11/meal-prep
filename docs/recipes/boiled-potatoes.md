@@ -5,6 +5,7 @@
 **Active time:** 1 cooker cycle, zero attention · **Makes:** 5-6 medium potatoes  
 **Uses prepped components:** none  
 **Source:** own, validated  
+**Kitchen-tested:** ❌ not yet  
 
 **Batch:** 5-6 medium potatoes | **Time:** 1 pressure-cooker cycle (3 whistles), zero attention
 

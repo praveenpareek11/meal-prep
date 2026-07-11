@@ -5,6 +5,7 @@
 **Active time:** 25-35 min (morning) · **Makes:** 6 rotis = 3 lunch + 3 dinner  
 **Uses prepped components:** none  
 **Source:** own  
+**Kitchen-tested:** ❌ not yet  
 
 *Storage rule: do **not** store dough; store cooked rotis only, as the plan notes for batch rotis.*
 

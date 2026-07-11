@@ -5,6 +5,7 @@
 **Active time:** 10 min active + overnight set · **Makes:** 1 L batch, twice a week  
 **Uses prepped components:** none  
 **Source:** own, validated  
+**Kitchen-tested:** ❌ not yet  
 
 1. Boil 1 L milk, then simmer 2-3 min for thicker curd.
 2. Cool to warm (finger comfortably tolerable ≈ 40-45°C).

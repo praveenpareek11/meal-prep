@@ -5,6 +5,7 @@
 **Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** frozen veg mix (pantry); no weekend prep needed  
 **Source:** My Tasty Curry Dalia Pulao / one-pot Indian vegetarian dinner, adapted for pressure cooker  
+**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

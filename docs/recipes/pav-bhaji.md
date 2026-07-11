@@ -5,6 +5,7 @@
 **Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** onion-tomato masala base — 150 g / 4 heaped tbsp; boiled potatoes — 250 g  
 **Source:** Vidhya’s Vegetarian Kitchen Pav Bhaji, adapted as fridge-only version  
+**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

@@ -5,6 +5,7 @@
 **Active time:** 2-day timeline, ~10 min active + 8-10 min steam · **Makes:** half cup dry moong/moth  
 **Uses prepped components:** idli pot for steaming  
 **Source:** own, safety-validated  
+**Kitchen-tested:** ❌ not yet  
 
 *Raw sprouts in monsoon = genuine food-poisoning risk. Always steam or sauté in this season.*
 

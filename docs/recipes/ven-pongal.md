@@ -5,6 +5,7 @@
 **Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** boiled moong dal — 1 cup cooked  
 **Source:** Hebbars Kitchen Ven Pongal / Khara Pongal, adapted for boiled-dal prep  
+**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

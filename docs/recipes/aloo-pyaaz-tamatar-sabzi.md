@@ -5,6 +5,7 @@
 **Active time:** 20-25 min (morning) · **Makes:** 2 meals for 1 person  
 **Uses prepped components:** none  
 **Source:** own  
+**Kitchen-tested:** ❌ not yet  
 
 *Style: semi-dry sabzi, not watery gravy. Pairs with 6 rotis + plain moong dal.*
 

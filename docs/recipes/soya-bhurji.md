@@ -5,6 +5,7 @@
 **Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** onion-tomato masala base — 120 g / 3 heaped tbsp  
 **Source:** My Tasty Curry Soya Bhurji, adapted for stovetop and prepped masala base  
+**Kitchen-tested:** ❌ not yet  
 
 ## Ingredients
 

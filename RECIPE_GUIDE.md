@@ -71,10 +71,12 @@ Template (the `␠␠` marker means two real space characters — replace it, do
 **Active time:** 20-25 min (morning) · **Makes:** 2 meals for 1 person␠␠
 **Uses prepped components:** none␠␠
 **Source:** own␠␠
+**Kitchen-tested:** ❌ not yet␠␠
 ```
 
 - **Freezer-safe** must include the reason when it is "No".
 - **Uses prepped components** lists weekend-prep components consumed (e.g. "onion-tomato masala base, boiled legumes") or `none`.
+- **Kitchen-tested** tracks whether the owner has actually cooked the recipe and confirmed the quantities and process work. Every NEW recipe starts as `❌ not yet` — an AI assistant must NEVER set this to ✅ on its own; only the owner flips it after a successful cook, changing it to `✅ 2026-07-15` (date of first cook, plus an optional short note like "reduce salt slightly"). If the owner reports corrections instead, fix the recipe (VALIDATION & CORRECTION MODE), keep ❌ until they confirm a good cook, and log the change in `validation-changelog.md`.
 - Optionally after the header, one italic *Style:* line describing the dish and its pairing (e.g. `*Style: thin, spoonable jhol gravy. Pairs with 3 rotis per meal.*`).
 
 ### 4b. Ingredients — MUST be a table, never a bullet list

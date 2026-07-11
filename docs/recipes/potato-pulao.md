@@ -5,6 +5,7 @@
 **Morning active time:** 25 min · **Serves:** 1 person, lunch + dinner  
 **Uses prepped components:** home curd, on the side  
 **Source:** own, one-pot pressure-cooker potato pulao  
+**Kitchen-tested:** ❌ not yet  
 
 *One-pot rice + potato meal. Because potato is already here and you'll eat it with curd, ¾ cup raw rice is the moderate portion for lunch + dinner. Use 1 cup raw rice only if you want a heavy quantity or you eat more rice.*
 

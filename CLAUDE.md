@@ -11,7 +11,8 @@ This repo is a personal vegetarian meal-prep knowledge base deployed via MkDocs 
 - HARD RULES: cooked rice 1-2 days fridge max; never store dough >1 day; NEVER freeze potato/curd/rice; sprouts always cooked
 
 ## Structure
-- docs/recipes/ — one recipe per .md file. Template header: Type / Fridge life / Freezer-safe / Active time / Uses prepped components / Source
+- docs/recipes/ — one recipe per .md file. Template header: Type / Fridge life / Freezer-safe / Active time / Uses prepped components / Source / Kitchen-tested
+- Kitchen-tested: new recipes always start `❌ not yet`; only the owner flips to `✅ <date>` after actually cooking it — never set ✅ yourself
 - Type is either `weekend-prep` (component) or `weekday-dish` (consumes components)
 - docs/plan/ — system, variations (5 weekly plans), storage cheat sheet, shopping, freezer guide
 - validation-changelog.md — audit trail of all recipe corrections; append when recipes change
