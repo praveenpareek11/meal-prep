@@ -20,7 +20,7 @@ Every recipe on this site states which layer it belongs to (**Type:** weekend-pr
 
 - **Morning (25-45 min):** cook the day's dish → cool while getting ready → fridge before work
 - **Lunch:** reheat portion 1
-- **Dinner:** reheat portion 2 (microwave: 2-3 min in the same glass box)
+- **Dinner:** reheat portion 2 in a kadai on low-medium with a splash of water till piping hot · 🔲 microwave: 2-3 min in the same glass box
 - **Night (5 min):** move tomorrow's freezer portion to fridge · scrape scraps to bin · rinse utensils · boiling water down the sink every other night
 
 ## Weekend prep sequence (everything overlaps)

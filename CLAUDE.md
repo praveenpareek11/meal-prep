@@ -6,7 +6,7 @@ This repo is a personal vegetarian meal-prep knowledge base deployed via MkDocs 
 - Solo vegetarian, Hyderabad; monsoon rules: no raw sprouts (always steam 8-10 min), no leafy greens in monsoon, humidity shortens fridge life
 - One morning cook (max 45-60 min) covers lunch + dinner; refrigerate after 30-40 min cooling, reheat thoroughly
 - Weekend prep session: 1.5-2 hrs max
-- Equipment: 2-burner gas, pressure cooker, kadai, idli pot, 60L OTG, 234L fridge, 23-25L solo microwave
+- Equipment: 2-burner gas, pressure cooker, kadai, idli pot, 60L OTG, 234L fridge. NO microwave yet (planned purchase) — reheating is kadai/tawa; mark optional microwave shortcuts with 🔲
 - Portions: 1 person, 3 rotis or 1 bowl rice per meal
 - HARD RULES: cooked rice 1-2 days fridge max; never store dough >1 day; NEVER freeze potato/curd/rice; sprouts always cooked
 

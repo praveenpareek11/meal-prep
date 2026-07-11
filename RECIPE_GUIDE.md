@@ -11,7 +11,7 @@ The site is a personal vegetarian meal-prep knowledge base built with MkDocs Mat
 - Solo vegetarian in Hyderabad. Portions: **1 person**, 3 rotis or 1 bowl rice per meal. Most fresh dishes make **2 meals** (lunch + dinner from one morning cook).
 - **One morning cook: 45–60 min max active time.** Weekend prep session: 1.5–2 hrs max.
 - **Monsoon rules:** no raw sprouts ever (always steam 8–10 min), no leafy greens in monsoon, humidity shortens fridge life — be conservative.
-- Equipment available: 2-burner gas stove, pressure cooker, kadai, idli pot, 60L OTG, 234L fridge, 23–25L solo microwave. Do not write recipes needing anything else (no air fryer, no blender assumptions unless a basic mixer-grinder task).
+- Equipment available: 2-burner gas stove, pressure cooker, kadai, idli pot, 60L OTG, 234L fridge. **NO microwave** (planned future purchase) — all reheating instructions must use kadai/tawa; a microwave alternative may be added only as an optional shortcut marked with 🔲. Do not write recipes needing anything else (no air fryer, no blender assumptions unless a basic mixer-grinder task).
 
 ## 2. Food-safety HARD RULES (never violate, never "improve")
 
