@@ -64,6 +64,7 @@ nav:
       - One-Pot Thin Dal Sambar for Idli: recipes/one-pot-thin-dal-sambar-for-idli.md
       - Fresh Coconut, Peanut and Roasted Chana Chutney: recipes/fresh-coconut-peanut-roasted-chana-chutney.md
       - Homestyle Paneer Pyaaz-Tamatar Masala: recipes/homestyle-paneer-pyaaz-tamatar-masala.md
+      - Aloo Pyaaz Bhindi Sabji: recipes/aloo-pyaaz-bhindi-sabji.md
 plugins:
   - search
 markdown_extensions:
