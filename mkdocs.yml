@@ -67,6 +67,7 @@ nav:
       - Aloo Pyaaz Bhindi Sabji: recipes/aloo-pyaaz-bhindi-sabji.md
       - Lauki Besan Masala Paratha — Bread Maker Dough: recipes/lauki-besan-masala-paratha.md
       - Tofu Atta Chapati — Bread Maker Dough: recipes/tofu-atta-chapati-bread-maker.md
+      - Quick Mini Soya Chunks Chaat: recipes/quick-mini-soya-chunks-chaat.md
 plugins:
   - search
 markdown_extensions:
